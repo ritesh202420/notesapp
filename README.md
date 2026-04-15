@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 <p align="center">
-  <img src="src/component/image.png" width="400"/>
+  <img src="/image.png" width="400"/>
 </p>
 <p align="center">
   <img src="src/component/image2.png" width="400"/>
