@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 <p align="center">
-  <img src="images/screenshot.png" width="300"/>
+  <img src="components/image2.png" width="300"/>
 </p>
 
 Runs the app in the development mode.\
